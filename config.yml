@@ -1,0 +1,16 @@
+baseURL: ""
+languageCode: eg-us
+title: "Abolfazl Arab"
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hello / Salam"
+    Content: Welcome to my personal blog, here you can find info about Abolfazl (Abe) Arab.
+  socialIcons:
+    - name: twitter
+      url: https://twitter.com/abe_bio
+    - name: linkedin
+      url: https://linkedin.com/abolfazlarab
+    - name: github
+      url: https://github.com/abe_arab
