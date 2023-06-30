@@ -1,6 +1,6 @@
 ---
 title: "My Resume"
-date: 2023-05-04
+date: 2023-06-30
 ---
 ### Education
 {{< include-html "education.html" >}}
