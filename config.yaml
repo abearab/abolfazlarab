@@ -14,3 +14,5 @@ params:
       url: https://linkedin.com/in/abolfazlarab
     - name: github
       url: https://github.com/abearab
+    - name: google-scholar
+      url: https://scholar.google.com/citations?hl=en&user=2U9yIIoAAAAJ
