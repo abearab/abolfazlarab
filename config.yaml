@@ -7,6 +7,9 @@ params:
   homeInfoParams:
     Title: "Hello / Salam"
     Content: Welcome to my personal blog, here you can find info about Abolfazl (Abe) Arab!
+  mainSections:
+    - about
+    - blog
   socialIcons:
     - name: twitter
       url: https://twitter.com/abe_bio
@@ -16,3 +19,5 @@ params:
       url: https://github.com/abearab
     - name: google-scholar
       url: https://scholar.google.com/citations?hl=en&user=2U9yIIoAAAAJ
+  author:
+    name: Abolfazl (Abe) Arab
