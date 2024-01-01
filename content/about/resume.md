@@ -1,7 +1,12 @@
 ---
-title: "My Resume"
-date: 2023-06-30
+title: "Curriculum Vitae (CV)"
+date: 2023-12-15
 ---
+I finished my high school in the city of Shiraz, studied undergraduate and a master in Tehran, and performed
+several years of research in the United States. Here are my education and work experiences.
+
+___
+
 ### Education
 {{< include-html "education.html" >}}
 
