@@ -10,7 +10,6 @@ several years of research in the United States. Here are my education and work e
 - [Research / Work](#research--work)
 - [Publications](#publications)
 - [Presentations](#presentations)
-- [Online Courses](#online-courses)
 - [Experiences](#experiences)
 ___
 
@@ -28,16 +27,6 @@ ___
 ___
 ### Presentations
 {{< include-html "presentations.html" >}}
-
-[//]: # (___)
-
-[//]: # (### Skills)
-
-[//]: # ({{< include-html "skills.html" >}})
-
-___
-### Online Courses
-{{< include-html "mooc.html" >}}
 
 ___
 ### Experiences
