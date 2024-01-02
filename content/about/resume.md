@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae (CV)"
 date: 2023-12-15
-author: "Abe"
+author: false
 ---
 I finished my high school in the city of Shiraz, studied undergraduate and a master in Tehran, and performed
 several years of research in the United States. Here are my education and work experiences.
