@@ -9,8 +9,6 @@ several years of research in the United States. Here are my education and work e
 - [Research / Work](#research--work)
 - [Publications](#publications)
 - [Presentations](#presentations)
-
-[//]: # (- [Skills]&#40;#skills&#41;)
 - [Online Courses](#online-courses)
 - [Experiences](#experiences)
 ___
