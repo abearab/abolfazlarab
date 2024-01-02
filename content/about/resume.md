@@ -19,6 +19,9 @@ ___
 {{< include-html "publications.html" >}}
 
 ___
+### Presentations
+{{< include-html "presentations.html" >}}
+___
 ### Skills
 {{< include-html "skills.html" >}}
 
