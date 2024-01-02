@@ -5,6 +5,13 @@ date: 2023-12-15
 I finished my high school in the city of Shiraz, studied undergraduate and a master in Tehran, and performed
 several years of research in the United States. Here are my education and work experiences.
 
+- [Education](#education)
+- [Research / Work](#research--work)
+- [Publications](#publications)
+- [Presentations](#presentations)
+- [Skills](#skills)
+- [Online Courses](#online-courses)
+- [Experiences](#experiences)
 ___
 
 ### Education
