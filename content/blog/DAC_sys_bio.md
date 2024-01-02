@@ -1,6 +1,7 @@
 ---
 title: "RNA Dynamics and Cellular Sensitivity to DNA Hypomethylation – Systems Biology Approach"
 date: 2023-12-17
+author: "Abe"
 ---
 
 [![GitHub: GilbertLabUCSF/Decitabine-treatment](https://img.shields.io/badge/GitHub-GilbertLabUCSF/Decitabine--treatment-orange.svg)](https://github.com/GilbertLabUCSF/Decitabine-treatment/)
