@@ -1,11 +1,11 @@
 ---
 title: "RNA Dynamics and Cellular Sensitivity to DNA Hypomethylation – Systems Biology Approach"
-date: 2023-12-17
+date: 2023-01-26
 author: "Abe"
 ---
 
 [![GitHub: GilbertLabUCSF/Decitabine-treatment](https://img.shields.io/badge/GitHub-GilbertLabUCSF/Decitabine--treatment-orange.svg)](https://github.com/GilbertLabUCSF/Decitabine-treatment/)
-[![DOI: 10.1101/2022.12.14.518457](http://img.shields.io/badge/DOI-10.1101/2022.12.14.518457-B31B1B.svg)](https://www.biorxiv.org/content/early/2022/12/14/2022.12.14.518457)
+[![DOI: 10.1038/s41598-024-77314-9](http://img.shields.io/badge/manuscript-Scientific_Reports-green.svg)](https://www.nature.com/articles/s41598-024-77314-9)
 [![GEO: GSE222886](https://img.shields.io/badge/GEO-GSE222886-green.svg)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE222886)
 Understanding the intricacies of DNA methylation is essential for unraveling the complexities of epigenetic regulation
 in various biological processes, including cancer development and treatment. In the subsequent sections, we delve into
@@ -14,13 +14,11 @@ treatment in the context of acute myeloid leukemia (AML) cancer treatment.
 
 ## Background
 Decitabine, a DNA demethylating agent, is a drug with an epigenetic therapy mechanism of action and an FDA approved
-strategy to treat high-risk patients with AML cancer. I led a collaborative effort resulting in a bioRxiv preprint
-titled “[A multi-omics approach reveals RNA dynamics promotes cellular sensitivity to DNA hypomethylation](https://www.biorxiv.org/content/10.1101/2022.12.14.518457v3)”, 
-where I contributed as a first author. 
-
-I wrote the initial draft of the manuscript and integrated functional genomics (i.e., genome-wide CRISPRi screening in
-three AML cell lines) and multi-omics (i.e., RNA-seq for AML cell line panels, meRIP-seq, and Ribo-seq) datasets, mostly
-generated in Gilbert and Goodarzi labs at UCSF and Arc institute since 2018.
+strategy to treat high-risk patients with AML cancer. I led part of a collaborative effort resulting in a publication titled 
+“[A multi-omics approach reveals RNA dynamics promotes cellular sensitivity to DNA hypomethylation](https://www.nature.com/articles/s41598-024-77314-9)”, 
+where I contributed as a first author. I wrote the initial draft of the manuscript and integrated functional genomics 
+(i.e., genome-wide CRISPRi screening in three AML cell lines) and multi-omics (i.e., RNA-seq for AML cell line panels, 
+meRIP-seq, and Ribo-seq) datasets, mostly generated in Gilbert and Goodarzi labs at UCSF and Arc institute since 2018.
 
 ### Central dogma of molecular biology
 
