@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae (CV)"
-date: 2024-01-25
+date: 2025-01-26
 author: "Abe"
 ---
 I finished my high school in the city of Shiraz, studied undergraduate and a master in Tehran, and performed
