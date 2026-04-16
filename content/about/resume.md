@@ -7,7 +7,12 @@ Originally from Shiraz, Iran, Abe holds a B.Sc. in cellular and molecular biolog
 
 His work includes integrating CRISPR screening and multi-omics datasets to study drug mechanisms in cancer cells. Notably, he developed [ScreenPro2](https://arcinstitute.org/tools/screenpro2), a tool that enables flexible analysis of high-content CRISPR screening datasets. Abe is now a PhD student at the [Pharmaceutical Sciences and Pharmacogenomics (PSPG)](https://pspg.ucsf.edu/) program at the University of California, San Francisco (UCSF).
 
-- [Education](#education)
+
+<!-- emmbed the PDF resume -->
+
+[View my CV (PDF)](./cv.pdf)
+
+<!-- - [Education](#education)
 - [Research / Work](#research--work)
 - [Publications](#publications)
 - [Presentations](#presentations)
@@ -31,4 +36,4 @@ ___
 
 ___
 ### Experiences
-{{< include-html "experience.html" >}}
+{{< include-html "experience.html" >}} -->
